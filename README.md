@@ -4,7 +4,7 @@
 
 <!-- Short description or a summary -->
 <h3 align="center"><em>Data Data Data Everywhere!!!</em></h3>
-<p>This is what I have learned over the past few years. I am an innovative person by nature and graduate Computer Science Student at the George Washington University & a tech enthusiast who loves working with data and solve problems using Machine Learning and Data Science. Have a look at my <i><a href="https://shubhjadhav.github.io/" target="_blank">Portfolio</a></i>.</p>
+<p>This is what I have learned over the past few years. I am an innovative person by nature and graduate Computer Science student at the George Washington University & a tech enthusiast who loves working with data and solve problems using Machine Learning and Data Science. Have a look at my <i><a href="https://shubhjadhav.github.io/" target="_blank">Portfolio</a></i>.</p>
 
 <!-- Background -->
 <hr>
