@@ -62,7 +62,11 @@
 </div>
 <hr>
 
-<div>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=shubhjadhav&count_private=true&show_icons=true&theme=radical" width="500px" alt="shubhjadhav">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhjadhav&layout=compact&theme=radical" width="380px" alt="shubhjadhav">
+<div style="display:flex;justify-content:space-between;">
+    <img src="https://github-readme-stats.vercel.app/api?username=shubhjadhav&count_private=true&show_icons=true&theme=radical" width="52%" alt="shubhjadhav">  
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhjadhav&layout=compact&theme=radical" width="40%" alt="shubhjadhav">
 </div>
+<hr>
+
+<h3>😂 Here is a random joke that'll make you laugh!</h3>
+<img src="https://readme-jokes.vercel.app/api" width="100%">
