@@ -1,13 +1,12 @@
+<!-- Header -->
 <h1 align="center">Namaste, I'm Shubham Jadhav</h1>
 <h5 align="center"><i>Work in progress....⚠️</i></h5>
 
-<!-- <div align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=shubhjadhav" alt="shubhjadhav"> 
-</div> -->
-
+<!-- Short description or a summary -->
 <h3 align="center"><em>Data Data Data Everywhere!!!</em></h3>
 <p>This is what I have learned over the past few years. I am an innovative person by nature and graduate Computer Science Student at the George Washington University & a tech enthusiast who loves working with data and solve problems using Machine Learning and Data Science. Have a look at my <i><a href="https://shubhjadhav.github.io/" target="_blank">Portfolio</a></i>.</p>
 
+<!-- Background -->
 <hr>
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180px">
 <h3>🚀 Some things you should know 👇</h3>
@@ -22,6 +21,7 @@
 </ul>
 <hr>
 
+<!-- Skillset -->
 <h3>My Skills include 👨‍💻</h3>
 <div>
     <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white">
@@ -37,6 +37,7 @@
     <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">   
 </div>
 
+<!-- Passion -->
 <hr>
 <img align="right" src="https://media.tenor.com/kJKJLmHcpfgAAAAC/canticos-nicky.gif" height="175px" width="250px">
 <h3>🦄 While I am not doing Data Science 😉</h3>
@@ -49,6 +50,7 @@
 </ul>
 <hr>
 
+<!-- Contact Details -->
 <h3>How to reach me ✨</h3>
 <div>
     <a href="https://www.linkedin.com/in/jadhavshubham/">
@@ -63,11 +65,13 @@
 </div>
 <hr>
 
+<!-- Github stats -->
 <div style="display:flex;justify-content:space-between;">
     <img src="https://github-readme-stats.vercel.app/api?username=shubhjadhav&count_private=true&show_icons=true&theme=radical" width="52%" alt="shubhjadhav">  
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhjadhav&layout=compact&theme=radical" width="40%" alt="shubhjadhav">
 </div>
 <hr>
 
+<!-- Joke -->
 <h3>😂 Here is a random joke that'll make you laugh!</h3>
 <img src="https://readme-jokes.vercel.app/api" width="100%">
