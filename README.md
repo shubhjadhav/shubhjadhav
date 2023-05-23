@@ -1,7 +1,7 @@
 <h1><strong>Hi, I'm Shubham Jadhav</a></strong><img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" height="25px" width="25px"></h1>
 
 <div align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=shrpadm2" alt="shrpadma2"> 
+    <img src="https://komarev.com/ghpvc/?username=shubhjadhav" alt="shubhjadhav"> 
 </div>
 
 <h3 align="center"><em>Data Data Data Everywhere!!!</em></h3>
