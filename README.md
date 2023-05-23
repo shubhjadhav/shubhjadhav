@@ -17,10 +17,10 @@
 <h3>🚀 Some things you should know 👇</h3>
 <ul>
 <li>👨‍💻 I'm currently a <em>Computer Science</em> student at <strong>George Washington University</strong>.</li>
-<li>☁  Worked as a <em>Data Science intern</em> at <strong>CDAC</strong></li>
-<li>☁  Worked as a <em>Decision Scientist</em> at <strong>Mu Sigma</strong></li>
-<li>☁  Worked as a <em>Senior Data Analyst</em> at <strong>Sigmoid Analytics</strong></li>
-<li>☁  Worked as a <em>Graduate Intern</em> at <strong>Dell Technologies</strong></li>
+<li>💼 Worked as a <em>Data Science intern</em> at <strong>CDAC</strong></li>
+<li>💼 Worked as a <em>Decision Scientist</em> at <strong>Mu Sigma</strong></li>
+<li>💼 Worked as a <em>Senior Data Analyst</em> at <strong>Sigmoid Analytics</strong></li>
+<li>💼 Worked as a <em>Graduate Intern</em> at <strong>Dell Technologies</strong></li>
 <li>👨‍🎓 Learning every day. I believe sharing is the best way of learning.</li>
 </ul>
 <hr>
