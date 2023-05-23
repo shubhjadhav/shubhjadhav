@@ -1,19 +1,14 @@
-<h1><strong>Hi, I'm Shubham Jadhav</a></strong><img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" height="25px" width="25px"></h1>
+<h1 align="center">Namaste, I'm Shubham Jadhav</h1>
 
-<div align="left"> 
+<!-- <div align="left"> 
     <img src="https://komarev.com/ghpvc/?username=shubhjadhav" alt="shubhjadhav"> 
-</div>
+</div> -->
 
 <h3 align="center"><em>Data Data Data Everywhere!!!</em></h3>
-
 <p>This is what I have learned over the past few years. I am an innovative person by nature and graduate Computer Science Student at the George Washington University & a tech enthusiast who loves working with data and solve problems using Machine Learning and Data Science.</p>
 
 <hr>
-<img align="right" src="https://media.giphy.com/media/4FQMuOKR6zQRO/giphy.gif" height="150px" width="200px">
-
-
-
-
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180px">
 <h3>🚀 Some things you should know 👇</h3>
 <ul>
     <li>🏫 I'm currently a <em>Computer Science</em> master's student at <strong>George Washington University, USA</strong>.</li>
@@ -38,20 +33,18 @@
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
     <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
-    <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
-    
-   
-    
+    <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">   
 </div>
-<br>
-<hr>
 
-<img align="right" src="https://media.giphy.com/media/C4taUWWpR8frEpzcMM/giphy.gif" height="150px" width="200px">
+<hr>
+<img align="right" src="https://media.tenor.com/kJKJLmHcpfgAAAAC/canticos-nicky.gif" height="175px" width="250px">
 <h3>🦄 While I am not doing Data Science 😉</h3>
 <ul>
     <li>Watch a movie or series 🎥</li>
-    <li>Cook an amazing food 👨‍🍳😋</li>
+    <li>Cook an amazing food 👨‍🍳</li>
     <li>Travel ✈️</li>
+    <li>Hiking ⛰️</li>
+    <li>Long Drive 🚗..</li>
 </ul>
 <hr>
 
@@ -65,13 +58,11 @@
     </a>&nbsp;&nbsp;
     <a href="https://github.com/shubhjadhav/">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-    </a>&nbsp;&nbsp;
-   
+    </a>&nbsp;&nbsp;   
 </div>
 <hr>
-<br>
+
 <div>
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=shubhjadhav&count_private=true&show_icons=true&theme=radical" width="500px" alt="shubhjadhav">
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhjadhav&layout=compact&theme=radical" width="380px" alt="shubhjadhav">
 </div>
-
