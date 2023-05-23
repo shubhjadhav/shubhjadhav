@@ -70,10 +70,8 @@
 </div>
 <hr>
 <br>
-<div >
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=shubhjadhav&count_private=true&show_icons=true&theme=radical"  width="400px" alt="shubhjadhav">
-    &nbsp;&nbsp;
-    &nbsp;&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhjadhav&layout=compact&theme=radical"  width="350px" alt="shubhjadhav">
+<div>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=shubhjadhav&count_private=true&show_icons=true&theme=radical" width="500px" alt="shubhjadhav">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhjadhav&layout=compact&theme=radical" width="380px" alt="shubhjadhav">
 </div>
 
