@@ -1,11 +1,12 @@
-<h1 align="center">Namaste, I'm Shubham Jadhav</h1><h5 align="center"><i>Work in progress....⚠️</i></h5>
+<h1 align="center">Namaste, I'm Shubham Jadhav</h1>
+<h5 align="center"><i>Work in progress....⚠️</i></h5>
 
 <!-- <div align="left"> 
     <img src="https://komarev.com/ghpvc/?username=shubhjadhav" alt="shubhjadhav"> 
 </div> -->
 
 <h3 align="center"><em>Data Data Data Everywhere!!!</em></h3>
-<p>This is what I have learned over the past few years. I am an innovative person by nature and graduate Computer Science Student at the George Washington University & a tech enthusiast who loves working with data and solve problems using Machine Learning and Data Science.</p>
+<p>This is what I have learned over the past few years. I am an innovative person by nature and graduate Computer Science Student at the George Washington University & a tech enthusiast who loves working with data and solve problems using Machine Learning and Data Science. Have a look at my <i><a href="https://shubhjadhav.github.io/" target="_blank">Portfolio</a></i>.</p>
 
 <hr>
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180px">
