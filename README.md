@@ -11,12 +11,12 @@
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180px">
 <h3>🚀 Some things you should know 👇</h3>
 <ul>
-    <li>🏫 I'm currently a <em>Computer Science</em> master's student at <strong>George Washington University, USA</strong>.</li>
-    <li>👨‍🎓 Graduated with a bachelors in <em>Information Technology</em> from <strong>Pune University, India</strong>.</li>
-    <li>💼 Worked as a <em>Data Science intern</em> at <strong>CDAC</strong></li>
-    <li>💼 Worked as a <em>Decision Science Manager</em> at <strong>Mu Sigma</strong></li>
+    <li>🏫 I'm currently a <em>Computer Science</em> master's student at <strong>George Washington University, USA</strong>.</li>    
+    <li>💼 Worked as a <em>Data Science Intern</em> at <strong>Dell Technologies</strong></li>
     <li>💼 Worked as a <em>Senior Data Analyst</em> at <strong>Sigmoid Analytics</strong></li>
-    <li>💼 Worked as a <em>Graduate Analytics Intern</em> at <strong>Dell Technologies</strong></li>
+    <li>💼 <em>Senior Decision Scientist Manager</em> at <strong>Mu Sigma</strong></li>
+    <li>💼 <em>Data Science intern</em> at <strong>CDAC</strong></li>
+    <li>👨‍🎓 Graduated with a bachelors in <em>Information Technology</em> from <strong>Pune University, India</strong>.</li>
     <li>🧐 Learning every day. I believe sharing is the best way of learning.</li>
 </ul>
 <hr>
