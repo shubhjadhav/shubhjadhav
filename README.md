@@ -40,7 +40,7 @@
 <!-- Passion -->
 <hr>
 <img align="right" src="https://media.tenor.com/kJKJLmHcpfgAAAAC/canticos-nicky.gif" height="175px" width="250px">
-<h3>🦄 While I am not doing Data Science 😉</h3>
+<h3>🦄 While I am not crunching data 😉</h3>
 <ul>
     <li>Watch a movie or series 🎥</li>
     <li>Cook an amazing food 👨‍🍳</li>
